@@ -1,0 +1,74 @@
+IdRegistro,RFid,Nombres,Fecha,Hora,Tipo,Tiempo
+
+2,123,Sebastian Balcero,2022-09-21,15:58,Entrada,0
+
+3,12345,Jhon Velasquez,2022-09-21,3:59,Entrada,0
+
+4,123,Sebastian Balcero,2022-09-21,15:59,Salida,0:01:00
+
+5,123,Sebastian Balcero,2022-09-21,16:01,Entrada,0
+
+6,123,Sebastian Balcero,2022-09-21,16:16,Salida,0:15:00
+
+7,123,Sebastian Balcero,2022-09-21,16:17,Entrada,0
+
+8,12345,Jhon Velasquez,2022-09-21,16:48,Salida,12:49:00
+
+9,123,Sebastian Balcero,2022-09-21,17:19,Salida,1:02:00
+
+10,123,Sebastian Balcero,2022-09-21,18:12,Entrada,0
+11,123,Sebastian Balcero,2022-09-21,18:14,Salida,0:02:00
+12,123,Sebastian Balcero,2022-09-25,23:09,Entrada,0
+13,123,Sebastian Balcero,2022-09-25,23:10,Salida,0:01:00
+14,12345,Jhon Velasquez,2022-09-25,23:12,Entrada,0
+15,123,Sebastian Balcero,2022-09-25,23:13,Entrada,0
+16,123,Sebastian Balcero,2022-09-25,23:13,Salida,0:00:00
+17,12345,Jhon Velasquez,2022-09-25,23:23,Salida,0:11:00
+18,123,Sebastian Balcero,2022-09-25,23:33,Entrada,0
+19,123,Sebastian Balcero,2022-09-25,23:34,Salida,0:01:00
+20,123,Sebastian Balcero,2022-09-25,23:35,Entrada,0
+21,12345,Jhon Velasquez,2022-09-25,23:35,Entrada,0
+22,123,Sebastian Balcero,2022-09-25,23:36,Salida,0:01:00
+23,123,Sebastian Balcero,2022-09-25,23:37,Entrada,0
+24,123,Sebastian Balcero,2022-09-25,23:37,Salida,0:00:00
+25,123,Sebastian Balcero,2022-09-25,23:37,Entrada,0
+26,123,Sebastian Balcero,2022-09-25,23:47,Salida,0:10:00
+27,123,Sebastian Balcero,2022-09-25,23:49,Entrada,0
+28,123,Sebastian Balcero,2022-09-26,10:21,Entrada,0
+29,123,Sebastian Balcero,2022-09-26,11:00,Salida,0:39:00
+30,123,Sebastian Balcero,2022-09-26,11:00,Entrada,0
+31,123,Sebastian Balcero,2022-09-26,11:00,Salida,0:00:00
+32,123,Sebastian Balcero,2022-09-26,11:00,Entrada,0
+33,123,Sebastian Balcero,2022-09-26,11:00,Salida,0:00:00
+34,123,Sebastian Balcero,2022-09-26,11:10,Entrada,0
+35,123,Sebastian Balcero,2022-09-26,11:13,Salida,0:03:00
+36,123,Sebastian Balcero,2022-09-26,11:13,Entrada,0
+37,123,Sebastian Balcero,2022-09-26,11:18,Salida,0:05:00
+38,123,Sebastian Balcero,2022-09-26,11:18,Entrada,0
+39,123,Sebastian Balcero,2022-09-26,11:19,Salida,0:01:00
+40,123,Sebastian Balcero,2022-09-26,11:19,Entrada,0
+41,123,Sebastian Balcero,2022-09-26,11:19,Salida,0:00:00
+42,123,Sebastian Balcero,2022-09-26,11:40,Entrada,0
+43,123,Sebastian Balcero,2022-09-26,11:44,Salida,0:04:00
+44,1,Julian Rodriguez,2022-09-26,11:46,Entrada,0
+45,1,Julian Rodriguez,2022-09-26,11:47,Salida,0:01:00
+46,123,Sebastian Balcero,2022-09-26,11:51,Entrada,0
+47,123,Sebastian Balcero,2022-09-26,11:51,Salida,0:00:00
+48,123,Sebastian Balcero,2022-09-26,11:52,Entrada,0
+49,123,Sebastian Balcero,2022-09-26,11:52,Salida,0:00:00
+50,123,Sebastian Balcero,2022-09-26,11:52,Entrada,0
+51,123,Sebastian Balcero,2022-09-26,11:52,Salida,0:00:00
+52,123,Sebastian Balcero,2022-09-26,11:52,Entrada,0
+53,123,Sebastian Balcero,2022-09-26,11:52,Salida,0:00:00
+54,123,Sebastian Balcero,2022-09-26,11:52,Entrada,0
+55,123,Sebastian Balcero,2022-09-26,11:52,Salida,0:00:00
+56,123,Sebastian Balcero,2022-09-26,11:52,Entrada,0
+57,123,Sebastian Balcero,2022-09-26,11:52,Salida,0:00:00
+58,123,Sebastian Balcero,2022-09-26,11:52,Entrada,0
+59,1,Julian Rodriguez,2022-09-26,12:00,Entrada,0
+60,1,Julian Rodriguez,2022-09-26,12:00,Salida,0:00:00
+61,123,Sebastian Balcero,2022-09-26,12:14,Salida,0:22:00
+62,123,Sebastian Balcero,2022-09-26,12:26,Entrada,0
+63,123,Sebastian Balcero,2022-09-26,12:27,Salida,0:01:00
+64,123,Sebastian Balcero,2022-09-26,12:27,Entrada,0
+65,123,Sebastian Balcero,2022-11-07,16:08,Entrada,0
